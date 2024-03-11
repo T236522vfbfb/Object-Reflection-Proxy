@@ -1,4 +1,4 @@
-import orderByProps from '../app.js';
+import orderByProps from './app.js';
 
 test.each([
     [
